@@ -1,0 +1,211 @@
+﻿  Linklist.cpp
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(7,17): error C2011: “ListNode”:“struct”类型重定义
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(13,13): error C2011: “List”:“struct”类型重定义
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(20,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(20,27): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(21,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(22,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(30,41): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(31,16): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(32,16): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(32,26): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(33,10): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(34,10): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(42,23): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(44,41): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(45,16): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(46,16): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(47,13): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(49,10): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(54,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(55,20): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(57,18): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(58,14): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(64,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(65): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(68,20): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(71,14): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(74,10): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(79,5): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(80,20): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(82,29): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(83,14): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(94): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(97,20): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(100,14): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(103,37): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(104,12): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(105,12): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(105,22): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(106,6): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(107,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(113): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(116,20): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(119,14): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(122,20): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(123,10): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(124,6): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(124,16): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(125,5): warning C4150: 删除指向不完整“ListNode”类型的指针；没有调用析构函数
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(126,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(131,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(132,13): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(136,5): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(137,13): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(142,20): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(145,14): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(146,9): warning C4150: 删除指向不完整“ListNode”类型的指针；没有调用析构函数
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(148,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(149,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(154,20): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(157,14): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(158,9): warning C4150: 删除指向不完整“ListNode”类型的指针；没有调用析构函数
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(160,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(161,6): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(165,11): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(166,20): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(167,29): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(168,14): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(174,11): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(175): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(178,20): error C2027: 使用了未定义类型“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(181,14): error C2027: 使用了未定义类型“ListNode”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(7,8): message : 参见“ListNode”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(188,10): error C2079: “L”使用未定义的 struct“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(189,5): error C2664: “void InitList(List *)”: 无法将参数 1 从“int *”转换为“List *”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(189,14): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(19,6): message : 参见“InitList”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(189,5): message : 尝试匹配参数列表“(int *)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(190,5): error C2664: “void CreateList_H(List *)”: 无法将参数 1 从“int *”转换为“List *”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(190,18): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(26,6): message : 参见“CreateList_H”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(190,5): message : 尝试匹配参数列表“(int *)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(191,5): error C2664: “void ListTraverse(List)”: 无法将参数 1 从“int”转换为“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(191,18): message : 未定义类型 "List" 的使用
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(54,6): message : 参见“ListTraverse”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(191,5): message : 尝试匹配参数列表“(int)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(193,5): error C2664: “bool GetElem(List,int,std::string &)”: 无法将参数 1 从“int”转换为“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(193,13): message : 未定义类型 "List" 的使用
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(64,6): message : 参见“GetElem”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(193,5): message : 尝试匹配参数列表“(int, int, std::string)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(195,15): error C2664: “int LocateElem(List,std::string)”: 无法将参数 1 从“int”转换为“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(195,26): message : 未定义类型 "List" 的使用
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(79,5): message : 参见“LocateElem”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(195,15): message : 尝试匹配参数列表“(int, const char [4])”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(202,5): error C2664: “bool ListInsert(List *,int,std::string)”: 无法将参数 1 从“int *”转换为“List *”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(202,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(93,6): message : 参见“ListInsert”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(202,5): message : 尝试匹配参数列表“(int *, int, const char [4])”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(203,5): error C2664: “void ListTraverse(List)”: 无法将参数 1 从“int”转换为“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(203,18): message : 未定义类型 "List" 的使用
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(54,6): message : 参见“ListTraverse”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(203,5): message : 尝试匹配参数列表“(int)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(204,5): error C2664: “bool ListDelete(List *,int,std::string &)”: 无法将参数 1 从“int *”转换为“List *”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(204,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(112,6): message : 参见“ListDelete”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(204,5): message : 尝试匹配参数列表“(int *, int, std::string)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(206,5): error C2664: “void ListTraverse(List)”: 无法将参数 1 从“int”转换为“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(206,18): message : 未定义类型 "List" 的使用
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(54,6): message : 参见“ListTraverse”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(206,5): message : 尝试匹配参数列表“(int)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(207,40): error C2664: “bool ListEmpty(List)”: 无法将参数 1 从“int”转换为“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(207,50): message : 未定义类型 "List" 的使用
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(131,6): message : 参见“ListEmpty”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(207,40): message : 尝试匹配参数列表“(int)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(208,37): error C2664: “int ListLength(List)”: 无法将参数 1 从“int”转换为“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(208,48): message : 未定义类型 "List" 的使用
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(136,5): message : 参见“ListLength”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(208,37): message : 尝试匹配参数列表“(int)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(209,5): error C2664: “void DestroyList(List *)”: 无法将参数 1 从“int *”转换为“List *”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(209,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(141,6): message : 参见“DestroyList”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(209,5): message : 尝试匹配参数列表“(int *)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(210,40): error C2664: “bool ListEmpty(List)”: 无法将参数 1 从“int”转换为“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(210,50): message : 未定义类型 "List" 的使用
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(131,6): message : 参见“ListEmpty”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(210,40): message : 尝试匹配参数列表“(int)”时
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(211,37): error C2664: “int ListLength(List)”: 无法将参数 1 从“int”转换为“List”
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(211,48): message : 未定义类型 "List" 的使用
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.h(13,8): message : 参见“List”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(136,5): message : 参见“ListLength”的声明
+E:\数据结构\无头节点单链表\无头节点单链表\Linklist.cpp(211,37): message : 尝试匹配参数列表“(int)”时
+  main.cpp
+  正在生成代码...

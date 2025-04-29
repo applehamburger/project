@@ -1,0 +1,6 @@
+﻿  main.cpp
+  stack.cpp
+  正在生成代码...
+C:\Users\Administrator\source\repos\Project2\Project2\stack.cpp(16): warning C4715: “StackEmpty”: 不是所有的控件路径都返回值
+C:\Users\Administrator\source\repos\Project2\Project2\stack.cpp(21): warning C4715: “StackFull”: 不是所有的控件路径都返回值
+  Project2.vcxproj -> C:\Users\Administrator\source\repos\Project2\x64\Debug\Project2.exe

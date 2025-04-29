@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\数据结构\Union\Union\main.cpp(7,11): warning C4101: “L”: 未引用的局部变量
+E:\数据结构\Union\Union\main.cpp(4,11): warning C4101: “e”: 未引用的局部变量
+E:\数据结构\Union\Union\main.cpp(3,6): warning C4101: “i”: 未引用的局部变量
+  Union.cpp
+  Union.h
+  正在生成代码...
+x64\Debug\Union.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Union.vcxproj -> E:\数据结构\Union\x64\Debug\Union.exe

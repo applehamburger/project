@@ -1,0 +1,3 @@
+﻿  shuangxu.cpp
+E:\数据结构\shuangxu_ercha\shuangxu_ercha\shuangxu.cpp(19,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  shuangxu_ercha.vcxproj -> E:\数据结构\shuangxu_ercha\x64\Debug\shuangxu_ercha.exe

@@ -1,0 +1,3 @@
+﻿  match.cpp
+E:\数据结构\括号匹配\括号匹配\match.cpp(38): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  括号匹配.vcxproj -> E:\数据结构\括号匹配\x64\Debug\括号匹配.exe

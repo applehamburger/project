@@ -1,0 +1,6 @@
+﻿  huffman.cpp
+  huffman.h
+  main.cpp
+  正在生成代码...
+x64\Debug\huffman.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  huffman.vcxproj -> E:\数据结构\huffman\x64\Debug\huffman.exe

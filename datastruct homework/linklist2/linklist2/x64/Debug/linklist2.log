@@ -1,0 +1,3 @@
+﻿  list.cpp
+D:\数据结构2023\linklist2\linklist2\list.cpp(53,14): warning C4101: “r”: 未引用的局部变量
+  linklist2.vcxproj -> D:\数据结构2023\linklist2\x64\Debug\linklist2.exe

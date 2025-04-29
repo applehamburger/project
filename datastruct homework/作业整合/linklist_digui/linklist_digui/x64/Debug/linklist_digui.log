@@ -1,0 +1,5 @@
+﻿  linklist.cpp
+  main.cpp
+E:\数据结构\linklist_digui\linklist_digui\main.cpp(3,14): warning C4101: “r”: 未引用的局部变量
+  正在生成代码...
+  linklist_digui.vcxproj -> E:\数据结构\linklist_digui\x64\Debug\linklist_digui.exe

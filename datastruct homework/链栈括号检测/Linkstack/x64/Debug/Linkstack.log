@@ -1,0 +1,5 @@
+﻿  LinkStack.cpp
+  main.cpp
+  正在生成代码...
+D:\数据结构2023\Linkstack\Linkstack\LinkStack.cpp(38): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  Linkstack.vcxproj -> D:\数据结构2023\Linkstack\x64\Debug\Linkstack.exe

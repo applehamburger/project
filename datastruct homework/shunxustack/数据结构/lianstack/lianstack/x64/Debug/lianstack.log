@@ -1,0 +1,6 @@
+﻿  lianstack.cpp
+E:\数据结构\lianstack\lianstack\lianstack.h(1,1): warning C4828: 文件包含在偏移 0x1c2 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  main.cpp
+E:\数据结构\lianstack\lianstack\lianstack.h(1,1): warning C4828: 文件包含在偏移 0x1c2 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  lianstack.vcxproj -> E:\数据结构\lianstack\x64\Debug\lianstack.exe

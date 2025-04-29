@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project3.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+E:\数据结构\Project3\Project3\main.cpp(43,14): warning C4101: “topElement”: 未引用的局部变量
+  mce.cpp
+  正在生成代码...
+  Project3.vcxproj -> E:\数据结构\Project3\x64\Debug\middle cg end.exe

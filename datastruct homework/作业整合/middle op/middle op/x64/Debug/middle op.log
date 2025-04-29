@@ -1,0 +1,6 @@
+﻿  main.cpp
+  middleop.cpp
+  正在生成代码...
+E:\数据结构\middle op\middle op\middleop.cpp(53): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+E:\数据结构\middle op\middle op\middleop.cpp(145): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  middle op.vcxproj -> E:\数据结构\middle op\x64\Debug\middle op.exe
